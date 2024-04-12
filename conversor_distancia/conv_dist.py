@@ -4,7 +4,7 @@ Programa conv_dist
 Descrição: Este programa lê um valor em metros e o converte para milíımetros.
 Autor: Nelson S. dos Santos
 Data: 12/04/2024
-Versão: 0.0.1
+Versão: 1.0.0
 
 """
 
