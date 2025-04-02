@@ -2,6 +2,7 @@
 
 idade = 0
 frase = ""
+
 # Entrada de dados
 idade = int(input("Qual a sua idade?"))
 
