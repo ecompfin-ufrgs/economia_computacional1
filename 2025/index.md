@@ -9,7 +9,7 @@ Nelson Seixas dos Santos é o professor responsável pela disciplina, estando se
 
 ### Aula 07/05/2025
 
-- [soma_sequencial](aula07-05-2025/soma_sequencial.py)
+- [soma_sequencial](aula07-05-2025/soma/soma_sequencial.py)
 - [soma_estruturado](soma_estruturado.py)
 - [soma_procedural](soma_procedural.py)
 - [soma_modular](soma_modular.py)
