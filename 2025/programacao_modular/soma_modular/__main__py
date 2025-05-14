@@ -1,5 +1,5 @@
 # Importacao de modulos
-import modsoma
+import modulo_soma
 	
 # Entrada de dados
 a = int(input('Informe o primeiro numero'))
