@@ -1,0 +1,12 @@
+# Importacao de modulos
+import modsoma
+	
+# Entrada de dados
+a = int(input('Informe o primeiro numero'))
+b = int(input('Informe o segundo numero'))
+	
+# Processamento de dados
+z = soma(a,b)
+	
+# Saida de dados
+print('A soma dos numeros eh igual a:', z)
