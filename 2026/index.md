@@ -2,7 +2,7 @@
 
 ## Sumário
 
-1. Parte I: Introdução à Economia
+1. [Parte I: Introdução à Economia](economia.md)
    1. Agentes econômicos: famílias, firmas, instituições financeiras e governo
    2. Regulação e mercados
    3. Problemas econômicos: produção e distribuição de riquezas
