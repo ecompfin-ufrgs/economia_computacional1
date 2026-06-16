@@ -80,3 +80,5 @@ Por isso, quando usa `socket.SOCK_STREAM` (TCP) em Python, não precisa de se pr
 ```
 
 Se a camada física for interrompida, o seu código Python irá disparar uma exceção do tipo `ConnectionResetError` ou `TimeoutError`.
+
+[tcp-ip-http](tcp-ip-http.md)
